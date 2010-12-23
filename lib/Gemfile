@@ -1,0 +1,2 @@
+source "http://rubygems.org"
+gem "mail", "~> 2.2.13"
