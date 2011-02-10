@@ -3,7 +3,7 @@ require "bundler/setup"
 
 require "mail"
 
-module Turbine
+module Momentum
   class Invoicer
     attr_reader :invoice_range
     

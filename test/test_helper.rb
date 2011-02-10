@@ -1,5 +1,5 @@
 require "test/unit"
 
-require "turbine/invoicer"
+require "momentum/invoicer"
 
 #Test::Unit::TestCase.send(:include, TestHelper)
